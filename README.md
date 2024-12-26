@@ -1,6 +1,6 @@
-## Olá! Meu nome é Raphael!👋
+# Olá! Meu nome é Raphael!👋
 
-- 🔭 Formado em Pedagogia pela Rudolf Steiner
-- 🌱 Atualmente Pós-Graduando em Desenvolvimento FullStack na PUCRS
-- 🖥️ Tenho foco especialmente em Front-End
-- 🤔 Apaixonado por inovação e desenvolvimento pessoal
+- Graduado pela Rudolf Steiner
+- Pós Graduado em Desenvolvimento FullStack pela Pontifícia Universidade Católica do Rio Grande do Sul
+
+  
