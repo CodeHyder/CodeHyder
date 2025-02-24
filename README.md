@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Desenvolvimento FullStack na Pontifícia Universidade Católica do Rio Grande do Sul.
+- 🎓 Pós-Graduado em Desenvolvimento FullStack pela Pontifícia Universidade Católica do Rio Grande do Sul.
 - 🌱 Aprendendo mais sobre Java
 
 ## Minhas Skills
