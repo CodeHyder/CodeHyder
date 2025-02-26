@@ -40,7 +40,11 @@
 <br/>
 
 <a href="https://github.com/codehyder" title="Perfil do Raphael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codehyder&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codehyder&theme=merko&show_icons=true&hide_border=true&count_private=true" />
+</a>
+
+<a href="https://github.com/codehyder" title="Most used Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codehyder&theme=merko&show_icons=true&hide_border=true&layout=compact" />
 </a>
 
 ## Onde me encontrar
