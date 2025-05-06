@@ -1,14 +1,18 @@
 ![](https://komarev.com/ghpvc/?username=codehyder&color=006bed)
 
-## Sobre mim
+## About me
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Pós-Graduado em Desenvolvimento FullStack pela Pontifícia Universidade Católica do Rio Grande do Sul.
-- 🌱 Aprendendo mais sobre Java
+Full Stack Developer with hands-on experience in JavaScript, Node.js, React, and Next.js. I specialize in building scalable web applications and delivering clean, maintainable code.
 
-## Minhas Skills
+I hold a degree in Education from Rudolf Steiner College and a postgraduate certificate in Full Stack Development from PUC-RS, one of Brazil’s top universities. My training covered the full software development lifecycle, from prototyping to deployment and included DevOps practices.
 
-**Aplicações e dados**
+Known for my clear communication and ability to facilitate processes, I bring a multidisciplinary perspective fueled by a strong reading habit across both technical and non-technical fields.
+
+Currently deepening my backend skills by learning Java.
+
+## Skills
+
+**Applications and data**
  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,7 +25,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
-**Utilidades**
+**Utilities**
  
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
@@ -31,7 +35,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) 
 
-**Ferramentas de desenvolvimento**
+**Development tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
@@ -47,6 +51,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codehyder&theme=merko&show_icons=true&hide_border=true&layout=compact" />
 </a>
 
-## Onde me encontrar
+## Find me
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-rodrigues-85ab69168/)](https://www.linkedin.com/in/raphael-rodrigues-85ab69168/)
