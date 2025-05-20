@@ -2,13 +2,15 @@
 
 ## About me
 
-Full Stack Developer with hands-on experience in JavaScript, Node.js, React, and Next.js. I specialize in building scalable web applications and delivering clean, maintainable code.
+Desenvolvedor Full Stack com experiência prática em projetos utilizando JavaScript, Node.js, React e Next.js. Tenho foco em construir aplicações web escaláveis com código limpo e de fácil manutenção.
 
-I hold a degree in Education from Rudolf Steiner College and a postgraduate certificate in Full Stack Development from PUC-RS, one of Brazil’s top universities. My training covered the full software development lifecycle, from prototyping to deployment and included DevOps practices.
+Pós-graduado em Desenvolvimento Full Stack pela PUC-RS, onde estudei todo o ciclo de vida do desenvolvimento de software, da prototipação ao deploy, com práticas de DevOps, metodologias ágeis e arquitetura em nuvem.
 
-Known for my clear communication and ability to facilitate processes, I bring a multidisciplinary perspective fueled by a strong reading habit across both technical and non-technical fields.
+Também sou formado em Pedagogia pela faculdade Rudolf Steiner, o que me proporcionou uma base sólida em comunicação, pensamento sistêmico e facilitação de processos.
 
-Currently deepening my backend skills by learning Java.
+Tenho facilidade de comunicação, organização de processos e uma visão multidisciplinar, reforçada por um hábito constante de leitura técnica e não técnica.
+
+Atualmente, estou aprofundando meus conhecimentos em Java e Spring, com foco em ampliar minha atuação no back-end.
 
 ## Skills
 
